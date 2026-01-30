@@ -1,4 +1,4 @@
-# SafeStack CANON
+# SafeStack
 
 SafeStack CANON is the **single source of truth** for the SafeStack ecosystem.
 
