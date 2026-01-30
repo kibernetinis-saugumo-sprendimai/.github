@@ -4,7 +4,10 @@
 
 <p align="center">
   <strong>SafeStack CANON</strong><br/>
-  Registered trademark • Registration No. XXXXXXXX
+  Registered trademark • Registration No. 95118 
+  It is hereby certified that following the Law on Trademarks of the Republic of
+  Lithuania the trademark as outlined in the attached extract has been entered into
+  the Register of Trademarks of the Republic of Lithuania.
 </p>
 
 <hr/>
