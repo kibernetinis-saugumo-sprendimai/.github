@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/safestack-logo.png" width="160" alt="SafeStack Logo" />
+  <img src="assets/logo/safestack.png" width="160" alt="SafeStack Logo" />
 </p>
 
 <p align="center">
